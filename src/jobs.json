@@ -1,0 +1,139 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Bengaluru, India. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Bengaluru, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "TechGen Solutions",
+        "description": "TechGen Solutions is a leading technology company specializing in web development and digital solutions. We deliver high-quality products and services to clients worldwide while fostering a collaborative and innovative work culture.",
+        "contactEmail": "hr@techgen.com",
+        "contactPhone": "+91-80-5555-5555"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Java Backend Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Java Backend Developer to work in our Pune office. You will be responsible for developing scalable backend applications and APIs with a strong focus on performance optimization.",
+      "location": "Pune, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "ByteCraft Technologies",
+        "description": "ByteCraft Technologies is a fast-growing tech firm specializing in enterprise-level software solutions. We focus on building secure, high-performance applications for our clients in the finance and healthcare sectors.",
+        "contactEmail": "careers@bytecraft.in",
+        "contactPhone": "+91-20-5555-4444"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Developer",
+      "type": "Contract",
+      "description": "Seeking an experienced Full Stack Developer to join our Hyderabad office for a 12-month contract. The role involves working on both frontend and backend technologies to build end-to-end solutions.",
+      "location": "Hyderabad, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "CloudSpace Technologies",
+        "description": "CloudSpace Technologies is a cloud solutions provider offering scalable and secure services to global enterprises. We help businesses transform through cloud and AI technologies.",
+        "contactEmail": "jobs@cloudspace.in",
+        "contactPhone": "+91-40-5555-6666"
+      }
+    },
+    {
+      "id": "4",
+      "title": "UX/UI Designer",
+      "type": "Freelance",
+      "description": "Looking for a talented UX/UI Designer for a freelance project in Chennai. The candidate should have experience designing user-centric web and mobile applications with a focus on clean, modern interfaces.",
+      "location": "Chennai, India",
+      "salary": "₹100K - ₹125K",
+      "currency": "INR",
+      "company": {
+        "name": "Innovative Designs Pvt Ltd",
+        "description": "Innovative Designs Pvt Ltd is a design agency focused on creating impactful and intuitive user experiences for brands in various industries, including e-commerce, education, and entertainment.",
+        "contactEmail": "freelance@innovative-designs.in",
+        "contactPhone": "+91-44-5555-7777"
+      }
+    },
+    {
+      "id": "5",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "We are hiring a DevOps Engineer to work with our infrastructure team in Mumbai. The role involves automation of infrastructure, CI/CD pipeline management, and deployment of applications on cloud platforms like AWS and Azure.",
+      "location": "Mumbai, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "RedTech Solutions",
+        "description": "RedTech Solutions is a leading software development company that provides cloud and automation solutions to enterprises in the banking, healthcare, and retail sectors.",
+        "contactEmail": "careers@redtechsolutions.in",
+        "contactPhone": "+91-22-5555-8888"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Product Manager",
+      "type": "Full-Time",
+      "description": "We are looking for an experienced Product Manager to join our Delhi-based team. The ideal candidate should have a strong understanding of product development lifecycle, agile methodologies, and excellent communication skills to manage cross-functional teams.",
+      "location": "Delhi, India",
+      "salary": "₹100K - ₹125K",
+      "currency": "INR",
+      "company": {
+        "name": "Visionary Tech Solutions",
+        "description": "Visionary Tech Solutions is an innovative product development company that specializes in building cutting-edge SaaS products for various industries, including retail, finance, and healthcare.",
+        "contactEmail": "hr@visionarytech.in",
+        "contactPhone": "+91-11-5555-9999"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Data Scientist to work with our data analytics team in Bangalore. You will be responsible for analyzing large datasets and applying machine learning algorithms to derive insights for our clients.",
+      "location": "Bangalore, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "SmartData Solutions",
+        "description": "SmartData Solutions is a leading data analytics company helping businesses make data-driven decisions with AI and machine learning technologies.",
+        "contactEmail": "careers@smartdata.com",
+        "contactPhone": "+91-80-5555-1234"
+      }
+    },
+    {
+      "id": "8",
+      "title": "QA Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a QA Engineer to join our testing team in Chennai. The ideal candidate will have experience with automated testing tools and a strong attention to detail to ensure the quality of our software products.",
+      "location": "Chennai, India",
+      "salary": "₹100K - ₹125K",
+      "currency": "INR",
+      "company": {
+        "name": "TechX Solutions",
+        "description": "TechX Solutions is a software development company specializing in creating high-quality enterprise applications for the education and healthcare industries.",
+        "contactEmail": "jobs@techxsolutions.in",
+        "contactPhone": "+91-44-5555-2345"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Business Analyst",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Business Analyst to work in our Gurgaon office. The role involves analyzing business requirements, creating detailed reports, and working closely with project managers to deliver effective solutions.",
+      "location": "Gurgaon, India",
+      "salary": "₹150K - ₹175K",
+      "currency": "INR",
+      "company": {
+        "name": "ProBiz Consultants",
+        "description": "ProBiz Consultants is a management consulting firm specializing in business analysis and project management for various industries, including finance and manufacturing.",
+        "contactEmail": "careers@probiz.in",
+        "contactPhone": "+91-12-5555-6789"
+      }
+    }
+  ]
+}
