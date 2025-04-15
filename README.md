@@ -2,6 +2,10 @@
 
 This is a job listing platform built with React, Vite, and TailwindCSS. Users can browse available job listings, view detailed information, and add new job postings. The project uses **JSON-Server** as a mock backend to simulate API requests.
 
+## 🔗 Live Demo
+
+Check out the live demo: [Click here](https://react-job-portal-phi.vercel.app/)
+
 ## Features
 
 - Browse jobs with details like title, company, and location.
